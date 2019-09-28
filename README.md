@@ -10,4 +10,4 @@ Do not use quotation marks to login
 
 ## Video
 
-[![](http://img.youtube.com/vi/k47bCNacV9M/0.jpg)](http://www.youtube.com/watch?v=k47bCNacV9M "")
+[Youtube](http://www.youtube.com/watch?v=k47bCNacV9M)
